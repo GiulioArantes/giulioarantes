@@ -1,10 +1,20 @@
-  # Olá! Eu sou o Giulio 😁
+# Olá! Eu sou o Giulio 😁
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Paulo, estou em
-busca de oportunidades como Estagiário ou Dev Júnior. Tenho perfil proativo, disciplinado e
-comunicativo, com facilidade para resolver problemas e aprender novas tecnologias. Estudo
-constantemente por bootcamps, cursos e projetos práticos. Tenho autonomia para planejar e
-aprender qualquer ferramenta necessária ao projeto.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Paulo, estou em busca de oportunidades como Estagiário ou Dev Júnior. Tenho perfil proativo, disciplinado e comunicativo, com facilidade para resolver problemas e aprender novas tecnologias. Estudo constantemente por bootcamps, cursos e projetos práticos. Tenho autonomia para planejar e aprender qualquer ferramenta necessária ao projeto.
+
+Atualmente faço parte da organização **[The404s](https://github.com/grupo01-turma-java81)**, onde colaboro no desenvolvimento de projetos fullstack como **Zé Coisinha Tem Tudo**, **iComida** e **RepZone**.
+
+### 🚀 Projetos em equipe (The404s)
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Zé Coisinha Tem Tudo – Frontend](https://github.com/grupo01-turma-java81/ZeCoisinhaTemTudo-frontend) | Sistema de gestão de pedidos, clientes e oportunidades, com interface moderna e responsiva. | React, TypeScript, Tailwind, JWT |
+| [Zé Coisinha Tem Tudo – Backend](https://github.com/grupo01-turma-java81/ZeCoisinhaTemTudo) | API REST em Java com autenticação JWT e controle de usuários, clientes e pedidos. | Java, Spring Boot, JPA, PostgreSQL |
+| [iComida – Frontend](https://github.com/grupo01-turma-java81/icomida-frontend) | Plataforma de delivery com cadastro de produtos e categorias. Interface intuitiva e animações. | React, TypeScript, Tailwind |
+| [iComida – Backend](https://github.com/grupo01-turma-java81/icomida) | API com autenticação, gerenciamento de produtos e relacionamento entre entidades. | Java, Spring Boot, PostgreSQL |
+| [RepZone – Frontend](https://github.com/grupo01-turma-java81/repzone) | Sistema para controle de treinos e exercícios voltado para academias e treinadores. | React, TypeScript, React Router |
+| [RepZone – Backend](https://github.com/grupo01-turma-java81/repzone-backend) | Backend para cadastro de treinos e exercícios com autenticação JWT. | Java, Spring Boot, PostgreSQL |
+
 
 Vamos trocar ideias e crescer juntos — eu acredito que a gente aprende muito mais quando caminha em parceria!
 
